@@ -1,5 +1,6 @@
 # MinePath
 A Minecraft client with built-in pathfinding.
+![Alt Text](https://github.com/KaiSomething/MinePath/raw/main/images/demo.gif)
 
 ### Usage  
 Use the command `.path {x} {y} {z}`  
