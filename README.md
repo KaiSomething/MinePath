@@ -1,6 +1,6 @@
 # MinePath
 A Minecraft client with built-in pathfinding.  
-![Alt Text](https://github.com/KaiSomething/MinePath/raw/main/images/demo.gif)
+![Alt Text](https://github.com/KaiSomething/MinePath/blob/main/images/demo.gif)
 
 ### Installation
 Create a new folder in `.minecraft/versions`. Drag the `MinePath.jar` and `MinePath.json` files into the folder.  
