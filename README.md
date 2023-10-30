@@ -4,7 +4,8 @@ A Minecraft client with built-in pathfinding.
 
 ### Installation
 Create a new folder in `.minecraft/versions`. Drag the `MinePath.jar` and `MinePath.json` files into the folder.  
-Create a new installation in the Minecraft launcher and you're done!
+Create a new installation in the Minecraft launcher and you're done!  
+Unfortunatly I have long since lost the source code for this project so I am only able to give you the client itself.
 
 ### Usage  
 Use the command `.path {x} {y} {z}`  
